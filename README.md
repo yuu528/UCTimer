@@ -3,9 +3,9 @@
 UCTimerは設定された時間にちょうどサビが来るようにUCを再生するカウントダウンタイマーです
 
 ## 必要ライブラリ
- - [ClickEncoder](httpsgithub.comseptillion-gitClickEncoder)
- - [DFRobotDFPlayerMini](httpsgithub.comDFRobotDFRobotDFPlayerMini)
- - [HT1621](httpsmacduino.blogspot.com201502HT1621.html)
+ - [ClickEncoder](https://github.com/septillion-git/ClickEncoder)
+ - [DFRobotDFPlayerMini](https://github.com/DFRobot/DFRobotDFPlayerMini)
+ - [HT1621](https://macduino.blogspot.com/201502HT1621.html)
  - MsTimer2
  - SoftwareSerial
  - TimerOne
